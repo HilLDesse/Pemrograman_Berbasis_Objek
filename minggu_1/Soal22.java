@@ -1,3 +1,4 @@
+package Minggu_1;
 public class Soal22 {
     public static final double CM_PER_INCH = 2.54;
     public static void main(String[] args) {

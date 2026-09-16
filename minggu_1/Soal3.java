@@ -1,3 +1,4 @@
+package Minggu_1;
 class Soal3 {
     public static void main(String[] args) {
         double x = 92.98;
