@@ -1,4 +1,4 @@
-package Minggu_1;
+package minggu_1;
 class Soal4 {
     static short methodOne(long l) {
         int i = (int) l;

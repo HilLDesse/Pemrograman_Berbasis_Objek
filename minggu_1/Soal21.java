@@ -1,4 +1,4 @@
-package Minggu_1;
+package minggu_1;
 public class Soal21 {
     public static void main(String[] args) {
         final double CM_PER_INCH = 2.54;
